@@ -5,8 +5,8 @@ import (
 	"log"
 	"sync"
 
-	pb "github.com/seanchan0901/geecache/geecachepb"
-	"github.com/seanchan0901/geecache/singleflight"
+	pb "github.com/SeanChan0901/geecache/geecachepb"
+	"github.com/SeanChan0901/geecache/singleflight"
 )
 
 // A Getter loads data for a key
