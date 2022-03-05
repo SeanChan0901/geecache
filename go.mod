@@ -1,4 +1,4 @@
-module geecache
+module github.com/SeanChan0901/geecache
 
 go 1.15
 
