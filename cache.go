@@ -3,7 +3,7 @@ package geecache
 import (
 	"sync"
 
-	"geecache/lru"
+	"github.com/seanchan0901/geecache/lru"
 )
 
 type cache struct {

@@ -1,4 +1,4 @@
-module github.com/golang/geecache
+module github.com/seanchan0901/geecache
 
 go 1.17
 
