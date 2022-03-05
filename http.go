@@ -10,8 +10,8 @@ import (
 	"sync"
 
 	"github.com/golang/protobuf/proto"
-	"geecache/consistenthash"
-	pb "geecache/geecachepb"
+	"github.com/seanchan0901/geecache/consistenthash"
+	pb "github.com/seanchan0901/geecache/geecachepb"
 )
 
 const (
